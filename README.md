@@ -1,5 +1,4 @@
 # hello-world
-just another repository
+just a new repository
 
-Hello everyone!
-I'm a colleage student.
+Hello World!
